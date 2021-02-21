@@ -1,4 +1,0 @@
-{
-    "flags": "-Pohi",
-    "pattern": "SK[0-9a-fA-F]{32}"
-}
