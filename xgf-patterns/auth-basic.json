@@ -1,0 +1,4 @@
+{
+    "flags": "-Pohi",
+    "pattern": "basic [a-zA-Z0-9_\\-:\\.=]+"
+}

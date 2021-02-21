@@ -1,0 +1,4 @@
+{
+    "flags": "-Pohi",
+    "pattern": "[a-f0-9]{32}"
+}
