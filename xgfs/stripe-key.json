@@ -1,0 +1,4 @@
+{
+    "flags": "-Pohi",
+    "pattern": "(?:r|s)k_live_[0-9a-zA-Z]{24}"
+}

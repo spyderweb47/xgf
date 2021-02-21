@@ -1,0 +1,4 @@
+{
+    "flags": "-Pohi",
+    "pattern": "cloudinary:\/\/[0-9]{15}:[0-9A-Za-z]+@[a-z]+"
+}
